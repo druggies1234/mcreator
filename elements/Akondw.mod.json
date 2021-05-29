@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "tie-dye-616_-_copy",
+    "name": "Akon dont worry",
+    "description": "akon",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:akondw"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

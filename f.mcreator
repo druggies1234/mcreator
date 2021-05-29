@@ -1,0 +1,49 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Akondw",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "akondw"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "akondw",
+      "files": [
+        "yt1s.com_-_akon_dont_matter_official_video"
+      ],
+      "category": "master",
+      "subtitle": "akon"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.f.akondw.desc": "akon",
+      "item.f.akondw": "Akon dont worry",
+      "subtitles.akondw": "akon"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "f",
+    "modName": "f",
+    "version": "1.0.0",
+    "author": "Hello, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.f",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
